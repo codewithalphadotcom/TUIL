@@ -1,0 +1,15 @@
+# Build / Compiled Artifacts
+*.o
+*.a
+*.so
+*.dylib
+
+# Executables & Binaries
+main
+test_tuil
+bin/
+
+# OS / System Files
+.DS_Store
+.vscode
+*.txt
