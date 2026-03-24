@@ -15,7 +15,7 @@ If you want to bundle TUIL directly inside your project so other developers don'
 1. Clone TUIL inside your project's folder:
 
    ```bash
-   git clone https://github.com/alpha/tuil.git tuil
+   git clone https://github.com/codewithalphadotcom/tuil.git tuil
    ```
 2. Build the TUIL library:
 
@@ -75,7 +75,7 @@ If you build many C apps and just want TUIL available natively across your entir
 1. Clone and install globally:
 
    ```bash
-   git clone https://github.com/alpha/tuil.git
+   git clone https://github.com/codewithalphadotcom/tuil.git
    cd tuil
    sudo make install
    ```
