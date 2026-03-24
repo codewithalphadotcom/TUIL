@@ -121,6 +121,7 @@ tuil_print_ascii("Hello World", FG_CYAN, FONT_DOOM);
 // Using -1 for default color
 tuil_print_ascii("TUIL", -1, FONT_DOOM);
 ```
+<img width="671" height="328" alt="Screenshot 2026-03-24 at 7 37 11 PM" src="https://github.com/user-attachments/assets/9391738f-4856-4477-9799-68246a8a3b72" />
 
 ---
 
